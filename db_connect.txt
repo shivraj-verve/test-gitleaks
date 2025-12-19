@@ -1,1 +1,1 @@
-db_password=SuperSecretPassword123!
+db_password=sk_live_51HkZ9pP7dYvRk2xQe
